@@ -208,4 +208,4 @@ Fractal Mapper is offered as a full free version with all features and updates i
 Get started today with Fractal Mapper and unleash your creativity in designing incredible maps for your RPG adventures!
 
 ---
-**Last updated:** 2026-10-18 13:48:38 UTC
+**Last updated:** 2026-10-18 17:08:14 UTC
